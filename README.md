@@ -1,2 +1,2 @@
-flappy bird is a python based gaming project.
-You can run these project i loacal system.
+flappy bird is a python based gaming project.I Created this project during my acedemics.
+
